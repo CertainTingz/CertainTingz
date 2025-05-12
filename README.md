@@ -1,7 +1,8 @@
 # 🚀 Hello, I am Lyndon!
 # I am [Quality Assurance Engineer](https://www.linkedin.com/in/lyndon-takudzwa-simango/), and I know my way around data.
 
-## 👨‍💻Here is some of work below...
+
+## 👨‍💻Here is some of my work below...
 - Automating and reporting on Samsung's calculator test cases
   - [Appium Automation](https://github.com/CertainTingz/SamsungCalculatorAutomation)
 - A data quality check of a property dataset using Oracle SQL
