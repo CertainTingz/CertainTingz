@@ -12,7 +12,7 @@
  
 - My Skills
   - Software Development (Java, Flutter, HTML, CSS, Bootstrip, Git)
-  - Databases (Oracle, MySQL, Postgress)
+  - Databases (Oracle, MySQL, Postgres)
   - Test Automation (Selenium, Appium, RestAssured)
   - Data Analysis (Python, R, PowerBI)
   - Perfomance Testing (Postman, Jmeter) 
