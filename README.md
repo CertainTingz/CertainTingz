@@ -1,5 +1,5 @@
 # 🚀 Hello, I am Lyndon!
-# I am [Quality Assurance Engineer](https://www.linkedin.com/in/lyndon-takudzwa-simango/), and I know my way around data.
+# I am a [Quality Assurance Engineer](https://www.linkedin.com/in/lyndon-takudzwa-simango/), and I know my way around [data](https://github.com/CertainTingz/DataQualityAssurance).
 
 
 ## 👨‍💻Here is some of my work below...
