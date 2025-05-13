@@ -8,7 +8,7 @@
 - A data quality check of a property dataset using Oracle SQL
   - [Data Quality Assurance Project](https://github.com/CertainTingz/DataQualityAssurance)
 - An LLM powered system that recommends a Bachelors program based on subjects passed or subject of interest
-  - [Bachelors Program Recommending System using Llama 2](//abc)
+  - [Bachelors Program Recommending System using Llama 2](https://github.com/CertainTingz/LLMPrototype)
  
 - My Skills
   - Software Development (Java, Flutter, HTML, CSS, Bootstrip, Git)
