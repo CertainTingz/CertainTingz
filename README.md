@@ -5,7 +5,7 @@
 ## 👨‍💻Here is some of my work below...
 - Automating and reporting on Samsung's calculator test cases.
   - [Appium Automation](https://github.com/CertainTingz/SamsungCalculatorAutomation)
-- Evaluating a LLM-based chatbot checking for metrics such as accurancy, relevency, hallucination amoung others.
+- Evaluating a LLM-based chatbot for metrics such as accurancy, relevency, hallucination amoung others.
   - [LLM Evaluation using Deepeval](https://github.com/CertainTingz/LLMTesting)
 - A data quality check of a property dataset using Oracle SQL.
   - [Data Quality Assurance Project](https://github.com/CertainTingz/DataQualityAssurance)
